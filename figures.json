@@ -1,0 +1,560 @@
+{
+ "figures": [
+  {
+   "display": "10 of 12",
+   "key": "huawei_counts",
+   "keywords": [
+    "huawei"
+   ],
+   "role": "COUNTS CONVICTED",
+   "superseded": [],
+   "unit": "counts",
+   "value": 10
+  },
+  {
+   "display": "3",
+   "key": "hormuz_tankers",
+   "keywords": [
+    "hormuz"
+   ],
+   "role": "TANKERS IRAN SAYS HIT",
+   "superseded": [],
+   "unit": "tankers",
+   "value": 3
+  },
+  {
+   "display": "7",
+   "key": "hormuz_conditions",
+   "keywords": [
+    "conditions",
+    "talks"
+   ],
+   "role": "CONDITIONS FOR TALKS",
+   "superseded": [],
+   "unit": "conditions",
+   "value": 7
+  },
+  {
+   "display": "270",
+   "key": "hormuz_day",
+   "keywords": [
+    "hormuz"
+   ],
+   "role": "WAR DAY",
+   "superseded": [],
+   "unit": "day",
+   "value": 270
+  },
+  {
+   "display": "6,803",
+   "key": "malaysia_repatriate",
+   "keywords": [
+    "malaysia"
+   ],
+   "role": "MYANMAR NATIONALS TO REPATRIATE",
+   "superseded": [
+    6500
+   ],
+   "unit": "people",
+   "value": 6803
+  },
+  {
+   "display": "1,500",
+   "key": "malaysia_ship",
+   "keywords": [
+    "by ship"
+   ],
+   "role": "BY SHIP 6-7 DEC",
+   "superseded": [],
+   "unit": "people",
+   "value": 1500
+  },
+  {
+   "display": "5,303",
+   "key": "malaysia_air",
+   "keywords": [
+    "by air"
+   ],
+   "role": "BY AIR",
+   "superseded": [],
+   "unit": "people",
+   "value": 5303
+  },
+  {
+   "display": "5",
+   "key": "myanmar_generals",
+   "keywords": [
+    "generals",
+    "sanction"
+   ],
+   "role": "GENERALS SANCTIONED",
+   "superseded": [],
+   "unit": "generals",
+   "value": 5
+  },
+  {
+   "display": "14",
+   "key": "icj_countries",
+   "keywords": [
+    "icj",
+    "countries"
+   ],
+   "role": "COUNTRIES AFFIRM ICJ",
+   "superseded": [],
+   "unit": "countries",
+   "value": 14
+  },
+  {
+   "display": "about 7%",
+   "key": "nvidia_fall",
+   "keywords": [
+    "nvidia",
+    "fell",
+    "fall"
+   ],
+   "role": "NVIDIA TUESDAY FALL",
+   "superseded": [],
+   "unit": "%",
+   "value": 7
+  },
+  {
+   "display": "31.5%",
+   "key": "nvidia_monday",
+   "keywords": [
+    "nvidia",
+    "monday",
+    "soaring"
+   ],
+   "role": "NVIDIA MONDAY RISE",
+   "superseded": [],
+   "unit": "%",
+   "value": 31.5
+  },
+  {
+   "display": "$79",
+   "key": "anthropic_close",
+   "keywords": [
+    "anthropic",
+    "close"
+   ],
+   "role": "ANTHROPIC CLOSE",
+   "superseded": [],
+   "unit": "usd",
+   "value": 79
+  },
+  {
+   "display": "$83",
+   "key": "anthropic_ipo",
+   "keywords": [
+    "anthropic",
+    "ipo"
+   ],
+   "role": "ANTHROPIC IPO PRICE",
+   "superseded": [],
+   "unit": "usd",
+   "value": 83
+  },
+  {
+   "display": "11",
+   "key": "riyadh_injured",
+   "keywords": [
+    "riyadh",
+    "injured"
+   ],
+   "role": "INJURED RIYADH",
+   "superseded": [],
+   "unit": "people",
+   "value": 11
+  },
+  {
+   "display": "1,732",
+   "key": "ukraine_day",
+   "keywords": [
+    "ukraine",
+    "war day"
+   ],
+   "role": "UKRAINE WAR DAY",
+   "superseded": [],
+   "unit": "day",
+   "value": 1732
+  },
+  {
+   "display": "2",
+   "key": "zaporizhzhia_killed",
+   "keywords": [
+    "zaporizhzhia",
+    "kills"
+   ],
+   "role": "KILLED ZAPORIZHZHIA",
+   "superseded": [],
+   "unit": "people",
+   "value": 2
+  },
+  {
+   "display": "1-0",
+   "key": "senegal_score",
+   "keywords": [
+    "senegal",
+    "afcon"
+   ],
+   "role": "AFCON FINAL SCORE RESTORED",
+   "superseded": [],
+   "unit": "goals",
+   "value": 1
+  },
+  {
+   "display": "204",
+   "key": "sooryavanshi_runs",
+   "keywords": [
+    "sooryavanshi",
+    "204"
+   ],
+   "role": "RUNS",
+   "superseded": [],
+   "unit": "runs",
+   "value": 204
+  },
+  {
+   "display": "53",
+   "key": "sooryavanshi_balls",
+   "keywords": [
+    "balls",
+    "sooryavanshi"
+   ],
+   "role": "BALLS",
+   "superseded": [],
+   "unit": "balls",
+   "value": 53
+  },
+  {
+   "display": "28",
+   "key": "sooryavanshi_sixes",
+   "keywords": [
+    "sixes"
+   ],
+   "role": "SIXES",
+   "superseded": [],
+   "unit": "sixes",
+   "value": 28
+  },
+  {
+   "display": "15",
+   "key": "sooryavanshi_age",
+   "keywords": [
+    "sooryavanshi"
+   ],
+   "role": "AGE",
+   "superseded": [],
+   "unit": "years",
+   "value": 15
+  },
+  {
+   "display": "4",
+   "key": "iraq_provinces",
+   "keywords": [
+    "iraq",
+    "provinces",
+    "oilfields"
+   ],
+   "role": "PROVINCES",
+   "superseded": [],
+   "unit": "provinces",
+   "value": 4
+  },
+  {
+   "display": "5%",
+   "key": "australia_fine",
+   "keywords": [
+    "australia",
+    "fines",
+    "tech"
+   ],
+   "role": "MAX FINE SHARE OF TURNOVER",
+   "superseded": [],
+   "unit": "%",
+   "value": 5
+  },
+  {
+   "display": "78.8",
+   "key": "cuba_life_2020",
+   "keywords": [
+    "cuba",
+    "life"
+   ],
+   "role": "CUBA LIFE EXPECTANCY 2020",
+   "superseded": [],
+   "unit": "years",
+   "value": 78.8
+  },
+  {
+   "display": "74.4",
+   "key": "cuba_life_2025",
+   "keywords": [
+    "cuba",
+    "life"
+   ],
+   "role": "CUBA LIFE EXPECTANCY 2025",
+   "superseded": [],
+   "unit": "years",
+   "value": 74.4
+  },
+  {
+   "display": "$20.5bn",
+   "key": "nigeria_borrowing",
+   "keywords": [
+    "nigeria",
+    "borrowing"
+   ],
+   "role": "NIGERIA BORROWING PLAN",
+   "superseded": [],
+   "unit": "bn",
+   "value": 20.5
+  },
+  {
+   "display": "23%",
+   "key": "nigeria_rate",
+   "keywords": [
+    "nigeria",
+    "rate"
+   ],
+   "role": "NIGERIA RATE HELD",
+   "superseded": [],
+   "unit": "%",
+   "value": 23
+  },
+  {
+   "display": "272",
+   "key": "gaza_meningitis",
+   "keywords": [
+    "meningitis",
+    "gaza"
+   ],
+   "role": "MENINGITIS INFECTIONS OCT",
+   "superseded": [],
+   "unit": "cases",
+   "value": 272
+  },
+  {
+   "display": "7",
+   "key": "gaza_chief_killed",
+   "keywords": [
+    "gaza",
+    "nahel"
+   ],
+   "role": "KILLED GAZA STRIKE",
+   "superseded": [],
+   "unit": "people",
+   "value": 7
+  },
+  {
+   "display": "16",
+   "key": "mexico_killed",
+   "keywords": [
+    "mexico",
+    "chapo",
+    "cartel"
+   ],
+   "role": "KILLED IN CAPTURE OP",
+   "superseded": [],
+   "unit": "people",
+   "value": 16
+  },
+  {
+   "display": "100 kg",
+   "key": "colombia_bomb",
+   "keywords": [
+    "colombia",
+    "bomb"
+   ],
+   "role": "CAR BOMB SIZE",
+   "superseded": [],
+   "unit": "kg",
+   "value": 100
+  },
+  {
+   "display": "68",
+   "key": "iowa_barrels",
+   "keywords": [
+    "iowa",
+    "barrels"
+   ],
+   "role": "BARRELS LEAD AZIDE",
+   "superseded": [],
+   "unit": "barrels",
+   "value": 68
+  },
+  {
+   "display": "\u20ac1.4bn",
+   "key": "nepal_india_aid",
+   "keywords": [
+    "nepal",
+    "india",
+    "pledges"
+   ],
+   "role": "INDIA SUPPORT TO NEPAL",
+   "superseded": [
+    1.62
+   ],
+   "unit": "bn",
+   "value": 1.4
+  },
+  {
+   "display": "4th",
+   "key": "chen_probed",
+   "keywords": [
+    "chen",
+    "politburo"
+   ],
+   "role": "POLITBURO MEMBER PROBED",
+   "superseded": [],
+   "unit": "member",
+   "value": 4
+  },
+  {
+   "display": "5-1",
+   "key": "madrid_score",
+   "keywords": [
+    "madrid",
+    "psv"
+   ],
+   "role": "REAL MADRID SCORE",
+   "superseded": [],
+   "unit": "goals",
+   "value": 5
+  },
+  {
+   "display": "$6.3bn",
+   "key": "binance_hack",
+   "keywords": [
+    "binance"
+   ],
+   "role": "BINANCE EXPLOIT OCT",
+   "superseded": [],
+   "unit": "bn",
+   "value": 6.3
+  },
+  {
+   "display": "$165.05",
+   "key": "nvidia_monday_close",
+   "keywords": [
+    "huang",
+    "165"
+   ],
+   "role": "NVIDIA MONDAY CLOSE",
+   "superseded": [],
+   "unit": "usd",
+   "value": 165.05
+  },
+  {
+   "display": "99%",
+   "key": "oxfam_share",
+   "keywords": [
+    "oxfam"
+   ],
+   "role": "OXFAM GAZA SHARE MON",
+   "superseded": [],
+   "unit": "%",
+   "value": 99
+  },
+  {
+   "key": "huawei_ratio",
+   "value": 10,
+   "unit": "",
+   "display": "10/12",
+   "role": "HUAWEI COUNTS RATIO",
+   "keywords": [
+    "huawei",
+    "ratio"
+   ],
+   "superseded": []
+  },
+  {
+   "key": "huawei_total",
+   "value": 12,
+   "unit": "counts",
+   "display": "12",
+   "role": "COUNTS TOTAL",
+   "keywords": [
+    "counts total"
+   ],
+   "superseded": []
+  },
+  {
+   "key": "senegal_conceded",
+   "value": 0,
+   "unit": "goals",
+   "display": "0",
+   "role": "GOALS CONCEDED AFCON FINAL",
+   "keywords": [
+    "conceded"
+   ],
+   "superseded": []
+  },
+  {
+   "key": "afcon_year",
+   "value": 2025,
+   "unit": "year",
+   "display": "2025",
+   "role": "AFCON YEAR",
+   "keywords": [
+    "afcon year"
+   ],
+   "superseded": []
+  },
+  {
+   "key": "date_day",
+   "value": 24,
+   "unit": "day",
+   "display": "24",
+   "role": "DAY OF MONTH",
+   "keywords": [
+    "november day"
+   ],
+   "superseded": []
+  },
+  {
+   "key": "cop_end_day",
+   "value": 22,
+   "unit": "day",
+   "display": "22",
+   "role": "COP31 END DAY",
+   "keywords": [
+    "cop31 end"
+   ],
+   "superseded": []
+  },
+  {
+   "key": "binance_day",
+   "value": 29,
+   "unit": "day",
+   "display": "29",
+   "role": "BINANCE EXPLOIT DAY OCT",
+   "keywords": [
+    "binance day"
+   ],
+   "superseded": []
+  },
+  {
+   "key": "date_year",
+   "value": 2026,
+   "unit": "year",
+   "display": "2026",
+   "role": "YEAR",
+   "keywords": [
+    "november year"
+   ],
+   "superseded": []
+  },
+  {
+   "key": "huawei_sentence_year",
+   "value": 2027,
+   "unit": "year",
+   "display": "2027",
+   "role": "SENTENCING YEAR",
+   "keywords": [
+    "sentence year"
+   ],
+   "superseded": []
+  }
+ ]
+}
